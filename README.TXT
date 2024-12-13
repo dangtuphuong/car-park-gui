@@ -8,4 +8,5 @@ USER INSTRUCTIONS:
 - Class CarPark is responsible for maintaining a list of all parking spots.
 - Class ApplicationGUI to display a GUI for the application.
 
-To run the program, enter "java ApplicationGUI" in the command line.
+To compile the program, run "javac ApplicationGUI.java" in the command line.
+To run the program, run "java ApplicationGUI" in the command line.
